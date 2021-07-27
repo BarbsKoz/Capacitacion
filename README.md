@@ -1,2 +1,0 @@
-# Capacitacion
-Capacitación de Git
